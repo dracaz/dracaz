@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dracaz
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, SQL, Power BI
-- 💞️ I’m looking to collaborate on some basic projects
+- 💞️ I’m looking to collaborate on some basic projects in Data Science
 - 📫 How to reach me ...
 
 <!---
